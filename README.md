@@ -10,7 +10,6 @@ Impacto socio-económico en los tratados de paz europeos
 
 [Dirección pública a la visualización](https://app.powerbi.com/view?r=eyJrIjoiYjFjYTRkODItMzJiOS00MTViLWI2MDktMmMzZjM1ZTZlNDhkIiwidCI6IjkyMmY2OGYyLTEzOTQtNDY3MC1hOGFlLWM1NzI4MzNmOTliMyIsImMiOjl9)
 
-Dirección pública a la visualización
 
 ## Descripción
 
